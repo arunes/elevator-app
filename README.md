@@ -26,7 +26,7 @@ About carrying weight:
 
 
 # How to Run?
-Application requires [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
+> Application requires [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 **Debug Mode**
 
@@ -34,11 +34,13 @@ Open the solution file with Visual Studio and debug SMAElevator.App project.
 
 **Executable**
 
+Download the latest version from [Releases](https://github.com/arunes/elevator-app/releases) page.
+
 - Windows
 Run `dist/Elevator.App.exe` to run the application on windows.
 
 - Linux
-Run `dotnet Elevator.App.dll`
+Run `dotnet dist/Elevator.App.dll`
 
 **Commands**
 
